@@ -1,5 +1,5 @@
 /*
-Largest in Array [1, 2, 6, 3, 5]
+Largest in Array [1, 5, 6, 3, 5]
 */
 
 public class Largestinarray {
