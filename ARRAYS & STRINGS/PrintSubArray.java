@@ -1,5 +1,7 @@
 /*
 Prit SubArray [2, 4, 6, 8, 10]
+Find maximum subarray sum
+Find manimum subarray sum
 */
 
 public class PrintSubArray {
@@ -63,6 +65,7 @@ output: 2
         10
 
         maximum subarray sum is: 30
+        manimum subarray sum is: 2
 
 
 Time Complexity: O(n³)
