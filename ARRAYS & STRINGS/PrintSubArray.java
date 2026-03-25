@@ -66,6 +66,5 @@ output: 2
 
 
 Time Complexity: O(n³)
-Not aptimized
 Space COmplexity: O(1)
 */
