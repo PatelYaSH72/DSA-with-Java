@@ -1,5 +1,5 @@
 /*
-Prit SubArray [2, 4, 6, 8, 10]
+Prit SubArray [2, 4, 6, 8, 1]
 */
 
 public class PrintSubArray {
